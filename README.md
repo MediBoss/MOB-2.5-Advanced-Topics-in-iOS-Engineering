@@ -1,5 +1,5 @@
 # MOB-2.5-Advanced-Topics-in-iOS-Engineering
-Curriculum designed for my independent study for Term 6 at Make School
+self-designed curriculum for my independent study for Term 6 at Make School
 
 
 ## Learning Outcomes
@@ -15,3 +15,4 @@ Curriculum designed for my independent study for Term 6 at Make School
 * Core Animation : Pt 3
 * iOS Enginneering Technical Interview Prep
 * Custom project : Build my own open source iOS library.
+
