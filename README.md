@@ -13,4 +13,5 @@ Curriculum designed for my independent study for Term 6 at Make School
 * Core Animation : Pt 1
 * Core Animation : Pt 2
 * Core Animation : Pt 3
+* iOS Enginneering Technical Interview Prep
 * Custom project : Build my own open source iOS library.
