@@ -7,6 +7,7 @@ self-designed curriculum for my independent study for Term 6 at Make School
 * Xcode Instrument & Profiling
 * Certificates & Provisioning profiles
 * Generics & Generic Protocols with Associated Typein Swift
+* Adavanced AutoLayout with UIKit
 * Swift UI
 * MVVM & Dependency injection [Maybe].
 * Swift 5.0 : new features and tricks
