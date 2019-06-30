@@ -25,5 +25,5 @@ Self-designed curriculum for my unofficial independent study for Term 6 at Make 
 ## Projects & Deliverables 
 
 * iOS Enginneering Technical Interview Prep
-* Custom project : Build an open source iOS library.
+* Custom project : Build an open source Swift library.
 * Custom blog post : TBD
