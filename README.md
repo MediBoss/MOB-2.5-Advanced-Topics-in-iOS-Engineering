@@ -4,9 +4,9 @@ self-designed curriculum for my independent study for Term 6 at Make School
 
 ## Topics to cover 
 
-* Xcode Instrument & Profiling
+* Xcode Developer Tools.
+* Generics & Protocols in Swift.
 * Certificates & Provisioning profiles
-* Generics & Generic Protocols with Associated Typein Swift
 * Adavanced AutoLayout with UIKit
 * Swift UI
 * MVVM & Dependency injection [Maybe].
@@ -14,6 +14,7 @@ self-designed curriculum for my independent study for Term 6 at Make School
 * Core Animation : Pt 1
 * Core Animation : Pt 2
 * Core Animation : Pt 3
+* Equatable, Hashable, 
 
 
 ## Resources 
