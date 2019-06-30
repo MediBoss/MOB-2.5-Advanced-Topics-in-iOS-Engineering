@@ -1,6 +1,6 @@
 # MOB-2.5-Advanced-Topics-in-iOS-Engineering
 
-self-designed curriculum for my independent study for Term 6 at Make School
+Self-designed curriculum for my unofficial independent study for Term 6 at Make School.
 
 ## Topics to cover 
 
